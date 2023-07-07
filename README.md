@@ -13,10 +13,10 @@ This repository contains a Python implementation of an A* pathfinding visualizer
 
 To get started with the A* Pathfinding Visualizer, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/a-star-pathfinding-visualizer.git`
-2. Navigate to the project directory: `cd a-star-pathfinding-visualizer`
+1. Clone the repository: `git clone https://github.com/your-username/A-Star_Pathfinding_Visualizer.git`
+2. Navigate to the project directory: `cd A-Star_Pathfinding_Visualizer`
 3. Install the required dependencies: `pip install pygame`
-4. Run the visualizer: `python main.py`
+4. Run the visualizer: `python visualizer.py`
 
 ## Usage
 
