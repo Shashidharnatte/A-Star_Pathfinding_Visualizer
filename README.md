@@ -30,7 +30,7 @@ Upon running the visualizer, you will be presented with a graphical interface wh
 
 ## Acknowledgments
 
-- The A* algorithm implementation was inspired by [Xueqiao (Joe) Xu's article](https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb) on Towards Data Science.
+- The A* algorithm implementation was inspired by this [article](https://towardsdatascience.com/a-star-a-search-algorithm-eb495fb156bb) on Towards Data Science.
 - The visualization and user interaction components were made possible by the Pygame library.
 
 
