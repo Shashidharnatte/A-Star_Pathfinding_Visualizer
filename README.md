@@ -25,7 +25,7 @@ Upon running the visualizer, you will be presented with a graphical interface wh
 - **Start and End Points**: Click on any two grid cells to set the starting and target destinations for the robot.
 - **Obstacle Placement**: Click and drag the mouse to place obstacles on the grid, representing areas that the robot cannot traverse.
 - **Visualization**: After placing the obstacles and setting the start and end points, click 'spacebar' to start the visualization, the A* algorithm will automatically find the shortest path and display it on the grid in real-time.
-
+- Click key 'C' to clear everything on the visualizer
 
 
 ## Acknowledgments
